@@ -157,6 +157,15 @@
               "key": "surveyCol",
               "className": "col-12 col-lg-8",
               "items": [
+                                {
+                  "itemKey": "studyExtensionInfo",
+                  "className": "",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "markdowns/studyExtensionInfo.md",
+                    "flavor": "chart-renderer"
+                  }
+                },
                 {
                   "itemKey": "surveyList",
                   "className": "",
