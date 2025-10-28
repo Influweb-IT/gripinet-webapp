@@ -21,7 +21,7 @@ jälgimine ajas on oluline rahvatervise näitaja.
 
 ## 3. Uuringu kestus 
 
-1.november 2024 kuni oktoober 2025.
+1.november 2024 kuni mai 2026.
 
 ## 4. Isikuandmete töötlemise õiguslik alus
 
@@ -93,7 +93,7 @@ irja.lutsar@ut.ee ja kaasprofessor Kristi Huik kristi.huik@ut.ee
 Teil on õigus:
 
 - oma andmetele, mida meile küsimustikuga andsite, ligi pääseda ja neid kontrollida,
-- paluda kõik oma andmed kustutada kuni isikuandmete hävitamiseni 31.10.2026,
+- paluda kõik oma andmed kustutada kuni isikuandmete hävitamiseni 31.05.2027.
 - paluda oma ebaõigete andmete parandamist,
 - piirata oma andmete töötlemist,
 - võtta tagasi oma isikuandmete töötlemiseks antud nõusolek. Nõusoleku tagasivõtmise hetkest teie isikuandmed kustutatakse uuringu andmete juurest ja muudetakse need seeläbi anonüümseks.
@@ -121,10 +121,10 @@ kooskõlastatakse vastava Eesti eetikakomiteega.
 ## 12. Kui kaua minu andmeid säilitatakse?
 
 Isikut tuvastada võimaldavaid andmeid (kontaktandmed, IP-aadresside logid) säilitatakse
-kuni 31.10.2026. Isikuandmete säilitamine on vajalik andmete puhastamise ja vigade
+kuni 31.05.2027. Isikuandmete säilitamine on vajalik andmete puhastamise ja vigade
 korrigeerimise faasis, sest vead võivad esineda ka projekti lõpus sisestatud andmetes. Selleks
 võib olla vajalik minna tagasi isikut tuvastavate andmeteni. Koodivõtit säilitatakse 1 aasta
-peale uuringu lõppu ehk kuni 31.10.2026
+peale uuringu lõppu ehk kuni 31.05.2027.
 
 Pärast uuringu lõppemist säilitatakse anonüümitud andmeid vähemalt 25 aastat eesmärgiga
 teha tulevikus vajadusel täpsemaid analüüse (vanuse või geograafilise jaotuse alusel) ja
@@ -139,7 +139,7 @@ Andmekaitsetingimusi võidakse muuta kui muutub midagi andmetöötluses. Kui see
 avaldame muudetud andmekaitsetingimused, võtame teiega ühendust ning küsime teilt selles
 osas enne andmetöötluse alustamist uuesti nõusolekut.
 
-**Uuendatud 02.10.2024**
+**Uuendatud 09.10.2025**
 
 
 

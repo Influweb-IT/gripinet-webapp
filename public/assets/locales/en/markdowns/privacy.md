@@ -16,7 +16,7 @@ and SARS-CoV-2. Monitoring the increase or decrease in the number of symptomatic
 
 ## 3. Study duration
 
-November 1, 2024 to October 2025.
+November 1, 2024 to May 1, 2026
 
 ## 4. Legal basis for personal data processing
 
@@ -91,7 +91,7 @@ Associate Professor Kristi Huik kristi.huik@ut.ee
 You are entitled to:
 
 - access and check your data that you have provided us with the questionnaire,
-- ask to delete all your data until the destruction of personal data on 31.10.2026,
+- ask to delete all your data until the destruction of personal data on 31.05.2027,
 - request correction of your incorrect data,
 - object to the processing of your personal data,
 - withdraw your consent to the processing of your personal data. From the moment you withdraw your consent, your personal data will be deleted from the study data and thus made anonymous.
@@ -114,11 +114,11 @@ within the study. All additional studies or studies to be conducted in the futur
 by the Estonian Ethics Committee.
 
 ## 12. How long will my data be stored?
-Personal data (contact data, logs of IP addresses) will be stored until 31.10.2026. Preservation of
+Personal data (contact data, logs of IP addresses) will be stored until 31.05.2027. Preservation of
 personal data during the necessary data cleaning and error correction phase, as they may also
 appear in the data entered at the end of the project. For this purpose, it may be necessary to re-
 identify the data. The code key is stored for 1 year after the end of the study, i.e. until
-31.10.2026.
+31.05.2027.
 
 After the end of the study, anonymized data will be stored for at least 25 years in order to
 perform more precise analyzes (based on age or geographical distribution) and the dynamics of
@@ -133,6 +133,6 @@ The data protection conditions may be changed if something changes in data proce
 happens, we will publish the revised data protection terms, contact you and ask you again for
 your consent in this regard before starting data processing.
 
-**Updated 02.10.2024**
+**Updated 09.10.2025**
 
 
