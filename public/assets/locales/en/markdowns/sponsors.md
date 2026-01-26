@@ -8,10 +8,13 @@
     <img class="img-fluid" src="assets/images/tartu_logo_en.png" alt="UT logo" title="UT" />
   </a>
   <a class="col-md d-flex justify-content-center" href="https://www.terviseamet.ee/en" target="_blank">
-    <img class="img-fluid" src="assets/images/terviseamet_en.png" alt="Terviseamet logo" title="UT" />
+    <img class="img-fluid" src="assets/images/terviseamet_en.png" alt="Terviseamet logo" title="Tervisaement" />
   </a>
-  <a class="col-md  d-flex justify-content-center" href="https://verdiproject.org" target="_blank">
-    <img class="img-fluid" src="assets/images/verdi_logo.jpg" alt="Verdi logo" title="Verdi" />
+  <a class="col-md d-flex justify-content-center" href="https://durableproject.org/" target="_blank">
+    <img class="img-fluid" src="assets/images/durable.png" alt="Durable logo" title="Durable" />
+  </a>
+  <a class="col-md d-flex justify-content-center" href="https://european-union.europa.eu" target="_blank">
+    <img class="img-fluid" src="assets/images/europa.png" alt="European Union logo" title="Europe" />
   </a>
   <a class="col-md d-flex justify-content-center" href="http://influenzanet.info" target="_blank">
     <img class="img-fluid" src="assets/images/influenzanet.png" alt="Influenzanet logo" title="Influenzanet" />

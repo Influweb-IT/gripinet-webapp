@@ -1,6 +1,6 @@
 ## Uuringu tutvustus
 
-Uuringu platvorm Gripiradar kogub isikuandmeid ning töötleb neid vastavalt seadusandlikele alustele ja isikuandmete kaitse üldmäärusele. Uuring on rahastatud Euroopa Liidu poolt VERDI projekti (SARS-CoV-2 variants Evaluation in pRegnancy and paeDIatrics cohorts) raames ja on saanud heakskiidu Tartu Ülikooli inimuuringute eetika komiteelt.
+Uuringu platvorm Gripiradar kogub isikuandmeid ning töötleb neid vastavalt seadusandlikele alustele ja isikuandmete kaitse üldmäärusele. Uuring on rahastatud Euroopa Liidu DURABLE konsortsiumi (Epideemiate vastane Uurimisvõrgustik) raames ja on saanud heakskiidu Tartu Ülikooli inimuuringute eetika komiteelt.
 
 Jagades oma andmeid käesoleva uuringu raames, panustate otseselt teadustöösse, mis keskendub hingamisteede nakkushaiguste, sh uue koroonaviiruse, leviku uurimisele. Kui avaldate soovi uuringus osaleda, kutsutakse Teid igal nädalal e-maili teel vastama küsimustikule, mis kogub andmeid viirushaigustele viitavate sümptomite esinemise kohta (näiteks palavik või köha). See platvorm on üles seatud koostöös InfluenzaNetiga. InfluenzaNet on koondnimi mitmete Euroopa ülikoolide ja valitsuste vahelise koostöö projektile, osalevatest riikidest ja kogutud andmete analüüsist saab ülevaate lehelt [https://influenzanet.info](https://influenzanet.info). Käesoleva uuringu platvorm Gripiradar on InfluenzaNeti Eesti rakendus.
 

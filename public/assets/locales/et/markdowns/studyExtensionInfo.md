@@ -4,7 +4,7 @@
   </svg>
   <div>
     <h5 class="alert-heading">Uuringu tähtaeg pikendatud</h5>
-    <p>Uuringu tähtaega on pikendatud – veebiküsimustikku saab täita kuni <strong>31.05.2026</strong>. Juba uuringus osalejatele midagi ei muutu.</p>
+    <p>Uuringu tähtaega on pikendatud – veebiküsimustikku saab täita kuni <strong>31.12.2027</strong>. Juba uuringus osalejatele midagi ei muutu.</p>
     <p class="mb-0"><strong>Aitäh kõigile osalejatele!</strong></p>
   </div>
 </div>

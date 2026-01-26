@@ -4,7 +4,7 @@
   </svg>
   <div>
     <h5 class="alert-heading">Study Deadline Extended</h5>
-    <p>The online questionnaire can now be completed until <strong>31.05.2026</strong>. Nothing will change for those who have already participated in the study.</p>
+    <p>The deadline for the study has been extended – the online questionnaire can be completed until <strong>31.12.2027</strong>. Nothing will change for those who have already participated in the study.</p>
     <p class="mb-0"><strong>We thank all participants!</strong></p>
   </div>
 </div>

@@ -1,8 +1,7 @@
 ## Overview of the study
 
 The research platform Gripiradar collects and processes personal data in accordance with the legal basis
-and the General Regulation on the Protection of Personal Data. The research project is financed by
-European Union VERDI project (SARS-CoV-2 variants Evaluation in pRegnancy and paeDIatrics cohorts).
+and the General Regulation on the Protection of Personal Data. The research project is financed by European Union DURABLE consortium (Research Network against Epidemics).
 The research has been approved by the Human Research Ethics Committee of the University of Tartu.
 
 By sharing your data as part of this study, you are directly contributing to research that focuses on the
