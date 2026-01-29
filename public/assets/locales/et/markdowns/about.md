@@ -4,7 +4,7 @@ Uuringu platvorm Gripiradar kogub isikuandmeid ning töötleb neid vastavalt sea
 
 Jagades oma andmeid käesoleva uuringu raames, panustate otseselt teadustöösse, mis keskendub hingamisteede nakkushaiguste, sh uue koroonaviiruse, leviku uurimisele. Kui avaldate soovi uuringus osaleda, kutsutakse Teid igal nädalal e-maili teel vastama küsimustikule, mis kogub andmeid viirushaigustele viitavate sümptomite esinemise kohta (näiteks palavik või köha). See platvorm on üles seatud koostöös InfluenzaNetiga. InfluenzaNet on koondnimi mitmete Euroopa ülikoolide ja valitsuste vahelise koostöö projektile, osalevatest riikidest ja kogutud andmete analüüsist saab ülevaate lehelt [https://influenzanet.info](https://influenzanet.info). Käesoleva uuringu platvorm Gripiradar on InfluenzaNeti Eesti rakendus.
 
-Uuringus osalemine on vabatahtlik. Oluline on,  et vaatamata täidetavatele küsimustikele ja veebilehel kuvatavale teabele ning veebilehe kasutamisele, peaksite terviseprobleemide esinemise korral pöörduma tervishoiutöötaja poole. Teil palutakse küsimustikke täita kuni maini 2026.  
+Uuringus osalemine on vabatahtlik. Oluline on,  et vaatamata täidetavatele küsimustikele ja veebilehel kuvatavale teabele ning veebilehe kasutamisele, peaksite terviseprobleemide esinemise korral pöörduma tervishoiutöötaja poole. Teil palutakse küsimustikke täita kuni detsembrini 2027.
 
 ---
 
@@ -16,7 +16,7 @@ Paljudel hingamisteede haigustega, nt gripi ja uue koroonaviirusega, nakatunud i
 
 #### Kes võivad osaleda?
 
-Kõik Eestis elavad täisealised isikud saavad uuringus osaleda vabatahtlikkuse alusel. Võimaldamaks nakkushaiguste leviku andmeid laste ja noorte kohta, võib alaealise isiku seaduslik esindaja vastata küsimustikele oma hoole all olevate laste eest. See pole kohustuslik, aga see panustab teadustöö läbiviimisse.  
+Kõik Eestis elavad täisealised isikud saavad uuringus osaleda vabatahtlikkuse alusel. Võimaldamaks nakkushaiguste leviku andmeid laste ja noorte kohta, võib alaealise isiku seaduslik esindaja vastata küsimustikele oma hoole all olevate laste eest. See pole kohustuslik, aga see panustab teadustöö läbiviimisse.
 
 Kui osalejal tekib küsimusi uuritava õigustega seoses, siis palume pöörduda Tartu Ülikooli inimuuringute eetika komitee poole e-posti aadressil eetikakomitee@ut.ee või tel 737 6215. Kaebustega isikuandmete töötlemise osas palume pöörduda Andmekaitse Inspektsiooni poole tel 5620 2341.
 

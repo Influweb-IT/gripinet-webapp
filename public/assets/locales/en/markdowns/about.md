@@ -17,7 +17,7 @@ Estonian application of this scientific study.
 Participation in the study is voluntary. We would like to emphasize that the completed questionnaires
 and the information displayed on the website and the use of the website have no medical significance
 for you. You should always seek medical care if you have health problems. You are requested to fill out
-the questionnaires until May 2026.
+the questionnaires until December 2027.
 
 #### Why do we need Gripiradar?
 
