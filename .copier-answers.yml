@@ -1,0 +1,24 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.3.0
+_src_path: gh:influenzanet/participant-webapp-template
+app_title: Gripiradar
+date_locales:
+-   code: et
+    dateFns: et
+    format: dd/MM/yyyy
+-   code: ru
+    dateFns: ru
+    format: dd/MM/yyyy
+-   code: en
+    dateFns: enGB
+    format: dd/MM/yyyy
+description: Gripiradar - a participatory surveillance platform in Estonia
+dev_path_proxies: {}
+dev_proxy_target: https://staging.gripiradar.ut.ee
+dev_ws_proxy_paths: []
+docker_image: gripiradar/participant-webapp
+extra_dependencies: {}
+favicon: /assets/static/images/favicon/favicon.png
+head_extra: ''
+html_lang: et
+package_name: gripiradar

@@ -369,7 +369,9 @@
                   "config": {
                     "type": "extension",
                     "config": {
-                      "type": "results-iframe"
+                      "type": "iframeEmbed",
+                      "url": "https://hivlab.github.io/gripiradar/#{lang}",
+                      "title": "Gripiradar"
                     }
                   }
                 }
