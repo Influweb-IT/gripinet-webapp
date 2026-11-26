@@ -157,7 +157,7 @@
               "key": "surveyCol",
               "className": "col-12 col-lg-8",
               "items": [
-                                {
+                {
                   "itemKey": "studyExtensionInfo",
                   "className": "",
                   "config": {
@@ -270,6 +270,11 @@
                         "linkKey": "privacyStatementLink",
                         "type": "internal",
                         "value": "/privacy"
+                      },
+                      {
+                        "linkKey": "dataProtectionLink",
+                        "type": "internal",
+                        "value": "/data-protection"
                       },
                       {
                         "linkKey": "contactLink",
@@ -425,6 +430,32 @@
                   "config": {
                     "type": "markdown",
                     "markdownUrl": "/markdowns/privacy.md"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "/data-protection",
+      "pageKey": "data-protection",
+      "rows": [
+        {
+          "key": "content",
+          "containerClassName": "my-3 min-vh-60",
+          "columns": [
+            {
+              "key": "pCol",
+              "className": "col-12 col-sm-10 col-md-8",
+              "items": [
+                {
+                  "itemKey": "dataProtection",
+                  "className": "",
+                  "config": {
+                    "type": "markdown",
+                    "markdownUrl": "/markdowns/data-protection.md"
                   }
                 }
               ]

@@ -38,7 +38,7 @@
     "passwordInputPlaceholder": "Введите пароль",
     "confirmPasswordInputLabel": "Подтвердите пароль",
     "confirmPasswordInputPlaceholder": "Введите пароль еще раз",
-    "informedConsentCheckbox": "Принять <1>политику конфиденциальности</1>.*",
+    "informedConsentCheckbox": "Принять <1>политику конфиденциальности и условия защиты данных</1>.*",
     "reCaptchaCookieCheckbox": "Принять <1>заявление reCAPTCHA</1>.*",
     "signupBtn": "Зарегистрироваться",
     "loginLink": "Уже есть аккаунт? Войти здесь.",
@@ -53,7 +53,7 @@
     }
   },
   "privacyConsent": {
-    "title": "Политика конфиденциальности",
+    "title": "Политика конфиденциальности и условия защиты данных",
     "acceptBtn": "Я согласен",
     "cancelBtn": "Я не согласен"
   },
@@ -144,7 +144,7 @@
     "warningDialog": {
       "title": "Удалить учетную запись",
       "content": "Удаление учетной записи {{ alias }} невозможно отменить.",
-    "cancelBtn": "Отмена",
+      "cancelBtn": "Отмена",
       "confirmBtn": "Удалить учетную запись"
     }
   },

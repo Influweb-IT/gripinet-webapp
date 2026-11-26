@@ -48,14 +48,14 @@
       "newPasswordPlaceholder": "Sisestage parool",
       "confirmPasswordLabel": "Kinnitage parool",
       "confirmPasswordPlaceholder": "Sisestage parool uuesti",
-      "informedConsentCheckbox": "Nõustun <1>privaatsuspoliitikaga</1>.*",
+      "informedConsentCheckbox": "Nõustun <1>privaatsuspoliitika ja andmekaitsetingimustega</1>.*",
       "btn": "Kinnitage parool",
       "restartBtn": "Uuesti",
       "successMsg": "Parool on kinnitatud",
       "successBtn": "Logi sisse"
     },
     "privacyConsent": {
-      "title": "Andmekaitsetingimused",
+      "title": "Privaatsuspoliitika ja andmekaitsetingimused",
       "acceptBtn": "Nõustun",
       "cancelBtn": "Ma ei nõustu"
     },

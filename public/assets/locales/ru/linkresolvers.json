@@ -48,14 +48,14 @@
       "newPasswordPlaceholder": "Введите пароль",
       "confirmPasswordLabel": "Подтвердите пароль",
       "confirmPasswordPlaceholder": "Введите пароль еще раз",
-      "informedConsentCheckbox": "Принять <1>политику конфиденциальности</1>.*",
+      "informedConsentCheckbox": "Принять <1>политику конфиденциальности и условия защиты данных</1>.*",
       "btn": "Подтвердите пароль",
       "restartBtn": "Снова",
       "successMsg": "Пароль подтвержден",
       "successBtn": "Авторизоваться"
     },
     "privacyConsent": {
-      "title": "Политика конфиденциальности",
+      "title": "Политика конфиденциальности и условия защиты данных",
       "acceptBtn": "Я согласен",
       "cancelBtn": "Я не согласен"
     },
